@@ -1,7 +1,9 @@
 {
   "sections": {
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+      }
     },
     "form": {
       "type": "contact-form",
@@ -11,7 +13,7 @@
     }
   },
   "order": [
-    "main",
-    "form"
+    "form",
+    "main"
   ]
 }
